@@ -74,8 +74,7 @@ class ViewController: UIViewController {
     
     
     
-    // This method show NSBlockOperation how to cancel operations and depend between two operations
-    
+    // This method show NSBlockOperation how to cancel operations and set dependency between operations    
     //runOperationMethod2()
     
   }
